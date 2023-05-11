@@ -28,7 +28,7 @@ body{
 .nav-link {
   color:white !important;
   position: relative;
-  left:800px;
+  left:55em;
   
   }
 .nav-item{
@@ -45,13 +45,12 @@ body{
 
 
   position: relative;
-  left:590px;
-  top:150px;
+  left:37em;
+  top:9em;
   border-radius: 50%;
   border: 8px solid white;
  
   height: 250px;
-
 
 
 
