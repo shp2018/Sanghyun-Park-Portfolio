@@ -1,6 +1,7 @@
 html{
   scroll-behavior: smooth;
   overflow-x: hidden;
+  width: 100%;
 }
 
 
@@ -45,7 +46,7 @@ body{
 
 
   position: relative;
-  left:37em;
+  left:41%;
   top:9em;
   border-radius: 50%;
   border: 8px solid white;
@@ -85,7 +86,7 @@ body{
     font-size: 18px;
     border-radius: 5px;
     position: relative;
-    left:610px;
+    left:41%;
     top:200px;
 
   
@@ -112,7 +113,7 @@ body{
   width:1100px;
   position: relative;
   background-color: white;
-  left:150px;
+  left:10%; 
   top: 500px;
   opacity: 0.8;
 }
@@ -121,7 +122,6 @@ body{
   height:250px;
   width:250px;
   border-radius: 250px;
-
   left:200px;
   border: 3px solid rgb(149, 187, 199);
   z-index: 1;
@@ -222,7 +222,7 @@ h2{
   width:1100px;
   position: relative;
   background-color: white;
-  left:150px;
+  left:41%;
   top: 100px;
   opacity: 1;
 
@@ -248,7 +248,7 @@ h2{
   width:1100px;
   position: relative;
   background-color: white;
-  left:150px;
+  left:41%;
   top: 500px;
   opacity: 0.8;
 }
@@ -632,6 +632,7 @@ left:100px;
   background-color: black;
   top: 600px;
   opacity: 0.8;
+  
 
 }
 .number{
